@@ -1,3 +1,3 @@
-Renn.es is a non-profit tilde community running on Debian Linux.
+Renn.es est une association loi 1901 proposant des services Internet basés sur des logiciels libres.
 
-More about us on our [homepage](https://renn.es).
+Voir [notre site web](https://renn.es).
